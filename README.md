@@ -9,7 +9,7 @@ Database: MySQL / PostgreSQL
 API Testing: Postman
 Build Tool: Maven
 
-Key Features
+Key Features:
 1.User-friendly interface to capture employee details
 2.Form validation for required fields (ID, name, email)
 3.REST API integration for seamless data transfer
@@ -17,7 +17,7 @@ Key Features
 5.Persistent storage of employee records in database
 6.Error handling and validation for reliable operations
 
-Application Workflow
+Application Workflow:
 1.User enters employee details in the frontend UI
 2.Form data is validated on the client side
 3.Data is sent to backend via REST API (HTTP POST request)
